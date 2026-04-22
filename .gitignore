@@ -1,5 +1,6 @@
 # latex files
 *.synctex.gz
+*.synctex(busy)
 *.aux
 *.lof
 *.log
