@@ -1,0 +1,14 @@
+# latex files
+*.synctex.gz
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+
+
+# any data folder
+data/
